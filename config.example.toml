@@ -1,0 +1,5 @@
+# 交付运行前，复制为 config.toml 并填写实际账号密码。
+username = "your-account"
+password = "your-password"
+interval = "10s"
+timeout = "10s"
